@@ -1,0 +1,7 @@
+f1 = open("test.png","rb",)
+data = f1.read()
+f2 = open("s45.png","wb")
+f2.write(data)
+f1.close()
+f2.close()
+print("file copied successfully")

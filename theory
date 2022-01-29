@@ -1,0 +1,11 @@
+file types : character & multimedia
+modes : r , w , append , readbytes(rb), wb
+file should have extension, location,
+the first record in csv file is always a header/fields/fieldnames
+create a python script to display students whose gender is male and cgpa is <3
+json is a dictionary of dictonaries it is a open cross-platform data to be shared among diff sources/servers. "Internet communicative thing"
+in python json is used to represent data it is an alternative to csv files
+json is a builtin module and need to import.... methods to work on 1. Load (reading of json data in the form of dictionaries)  , 2.Dump (writing of json data in the form of dictionaries) ,  3. Loads (reading in the form string ), Dumps(in the format of a dtring)
+**** context manager  in python "with" is a keyword to create a context manager to work with one by one 1. Files 2.Databasse 3. NEtworks.. where the connections can be automatically closed
+note : "with" is Cm mostly used in database connections
+Q Display names of the states who are having more than 2 area codes or display name of the state and no of area codes for every state
